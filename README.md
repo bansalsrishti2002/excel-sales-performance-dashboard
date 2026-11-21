@@ -1,7 +1,9 @@
 # Excel Sales Performance Dashboard
 
 ### Project Overview
+## Dashboard Preview
 
+![Excel Sales Performance Dashboard](dashboard.png)
 Developed an interactive sales performance dashboard in Microsoft Excel to analyze historical sales data across 40 customer accounts.
 
 The project focuses on evaluating sales performance across customer segments and geographical regions, identifying cross-selling opportunities, and presenting business insights through interactive visualizations.
